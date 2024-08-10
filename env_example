@@ -1,0 +1,5 @@
+SK=secret_key
+NAME=db_name
+USER=username
+PASSWORD=user_password
+HOST=db_host
